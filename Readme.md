@@ -39,7 +39,7 @@ Encrypted: RIJVS
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/<your-username>/VigenereCipherTool.git
+git clone https://github.com/adityaisadkar/VigenereCipherTool.git
 cd VigenereCipherTool
 
 2. Compile the files
@@ -51,10 +51,6 @@ java CipherUI
 
 CLI
 java App
-
-🖥️ Screenshots (Optional)
-
-Add screenshots if you want to showcase the UI
 
 🛠️ Technologies Used
 
@@ -86,5 +82,5 @@ This project is open-source under the MIT License.
 Aditya Isadkar
 
 GitHub: @adityaisadkar
-LinkedIn: @LinkedIn
+LinkedIn: [@LinkedIn](https://www.linkedin.com/in/aditya-isadkar-b73a02258/)
 Email: adityaisadkar940@gmail.com
